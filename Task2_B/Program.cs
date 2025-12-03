@@ -8,7 +8,6 @@
     {
         static void Main(string[] args)
         {
-            // Methods for Calculate delegate
             static int Add(int x, int y) => x + y;
             static int Subtract(int x, int y) => x - y;
 
